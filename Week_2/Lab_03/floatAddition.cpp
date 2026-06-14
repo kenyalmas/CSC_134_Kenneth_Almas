@@ -10,8 +10,12 @@
 using namespace std;
 
 int main(void) {
-  float num1 = 0.83;
-  float num2 = 1.25;
+  float num1, num2;
+
+  cout << "Enter the first number: ";
+  cin >> num1;
+  cout << "Enter the second number: ";
+  cin >> num2;
 
   float sum = num1 + num2;
 
