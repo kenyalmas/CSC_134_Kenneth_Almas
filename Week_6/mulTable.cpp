@@ -11,11 +11,11 @@ using namespace std;
 
 int main() {
     // initialize our input variable
-    int num
+    int num;
 
     // get the number
     cout << "enter a number: ";
-    cin >> num
+    cin >> num;
 
     // start at 0 and iterate through 12 displaying the nums multiplication table
     for (int i = 0; i <= 12; i++) {

@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
     // start at 100 and iterate through the loop until the counter reaches 1
-    for (int i = 100; i <= 1; i-- {
+    for (int i = 100; i <= 1; i--) {
         // use the cout object to display to the console
         cout << i << endl;
     }

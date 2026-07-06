@@ -11,11 +11,11 @@ using namespace std;
 
 int main() {
     // initialize our input variable
-    int num
+    int num;
 
     // get the number
     cout << "enter a number: ";
-    cin >> num
+    cin >> num;
 
     // start at 0 and iterate through the loop until the counter reaches the given value
     for (int i = 0; i < num; i++) {

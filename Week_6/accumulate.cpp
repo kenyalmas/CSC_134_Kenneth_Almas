@@ -19,7 +19,7 @@ int main() {
     }
 
     // print out the number the accumulator reached
-    cout << "The accumulator value is: " << accumulator << endl;
+    cout << "The accumulator value is: " << acc << endl;
 
     // return a 0 to indicate that the function exited cleanly
     return 0;
